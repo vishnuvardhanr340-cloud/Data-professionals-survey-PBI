@@ -60,7 +60,7 @@ screenshots/   Images of each dashboard page
 
 ## How to open the dashboard
 
-1. Download the `.pbix` file from the `dashboard/` folder.
+1. Download the `.pbix` file from the `Dashboard/` folder.
 2. Open it in Power BI Desktop (free from Microsoft).
 3. Use the slicers (Country, Role, Industry) and the page navigator at the top right.
 
